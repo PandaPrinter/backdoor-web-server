@@ -1,0 +1,2 @@
+#!/bin/bash
+java normal_web_server "$@"
